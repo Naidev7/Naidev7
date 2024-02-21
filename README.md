@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naidaly Ruiz</h1>
 <h3 align="center">A passionate full stack developer based in Barcelona</h3>
 
-- 💬 Ask me about **HTML, CSS, Javascript, React.js**
+- 💬 Ask me about **HTML, CSS, Javascript, React.js, Node.js, MySQL, MongoBD**
 
 - 📫 How to reach me **naidalyruiz@gmail.com**
 
