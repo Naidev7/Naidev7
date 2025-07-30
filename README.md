@@ -1,8 +1,40 @@
-<h1 align="center">Hi 👋, I'm Naidaly Ruiz</h1>
-<h3 align="center">A passionate full stack developer based in Barcelona</h3>
+## 👋 Hi there, I'm Michell!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naidaly ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naidaly ruiz" height="30" width="40" /></a>
-</p>
+I'm a **Junior Full Stack Developer** passionate about backend development. My goal is to build efficient, scalable, and maintainable software. I enjoy exploring new languages, frameworks, and methodologies, and I'm always eager to learn from experienced developers.
+
+---
+
+### 🚀 **Technical Skills**
+
+- **Languages:** PHP, JavaScript, Go
+- **Frontend:** React, Vue.js
+- **Backend:** Node.js, Laravel, Symfony, Go
+- **DevOps & Cloud:** AWS, Kubernetes
+
+---
+
+### 💼 **Professional Experience**
+
+Currently working at **Mytheresa**, where I'm focused on backend development involving:
+
+- Go
+- PHP with Symfony
+- AWS infrastructure
+- Kubernetes for container orchestration
+
+---
+
+### 🌱 **Interests and Learning**
+
+- Exploring software architecture patterns, particularly SOLID principles and Hexagonal Architecture
+- Experimenting with new programming languages and technologies
+- Listening to and learning from the experiences of seasoned developers
+
+---
+
+### 🤝 **Connect with me**
+
+I’m always open to new connections and insightful discussions!
+
+
 
